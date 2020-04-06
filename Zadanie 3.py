@@ -55,6 +55,7 @@ def main():
                 print('5.Zapłac')
                 #print(uwu)   debug
 
+
                 submenu = int(input('---->: '))
                 if 1 <= submenu <= 3:
                     try:
